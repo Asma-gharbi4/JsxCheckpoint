@@ -1,0 +1,16 @@
+.title {
+    background-color: #1fc8db;
+    background-image: linear-gradient(140deg, #126c83 0%, #234257 50%, #154666 75%);
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+
+.red {
+    color: #ffffff;
+}
+
+.image {
+    width: 100%;
+    height: 100%;
+}
